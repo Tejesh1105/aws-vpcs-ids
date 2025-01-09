@@ -1,5 +1,4 @@
 #!/bin/bash
-# Using for loop and $@ to get VPCs of multiple VPCs
 
 # Error-handling: Check if no arguments are provided.
 if [ $# -eq 0 ]; then
